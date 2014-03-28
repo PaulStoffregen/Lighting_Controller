@@ -1,10 +1,13 @@
-1	Teensy 2.0
-1	SD Adaptor for Teensy 2.0
-1	SP483, RS-485 transceiver, Exar Semiconductor
+The controllers were built from Paul's leftover parts, so this list
+is lacking specific part numbers for many items.....
+
+1	Teensy 2.0, http://www.pjrc.com/store/teensy.html
+1	SD Adaptor for Teensy 2.0, http://www.pjrc.com/store/sd_adaptor.html
+1	SP483, RS-485 transceiver, Exar Semiconductor, Digikey 1016-1163-5-ND
 2	Header, 5 pin, extra long
 2	Header, 7 pin
 1	Header, 14 pin
-1	Voltage regulator, LM7805
+1	Voltage regulator, LM7805, Digikey LM7805ACT-ND
 1	100 mA PTC "fuse"
 1	B130 Schottky diode
 1	EG2208 switch
