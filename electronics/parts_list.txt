@@ -1,0 +1,19 @@
+1	Teensy 2.0
+1	SD Adaptor for Teensy 2.0
+1	SP483, RS-485 transceiver, Exar Semiconductor
+2	Header, 5 pin, extra long
+2	Header, 7 pin
+1	Header, 14 pin
+1	Voltage regulator, LM7805
+1	100 mA PTC "fuse"
+1	B130 Schottky diode
+1	EG2208 switch
+1	Terminal block, 2 pin
+1	Terminal block, 3 pin
+6	Resistor, 1K, 603
+6	Resistor, 150, 805
+3	Capacitor, 1uF, 25V, X7R
+1	LED, green, 805
+5	LED, orange, 603
+1	PCB, http://www.oshpark.com/shared_projects/BQE7HL3H
+1	XLR connector, 3 pin female
